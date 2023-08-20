@@ -1,0 +1,13 @@
+[
+  {
+    "meterId": 1,
+    "timestamp": "2019-02-05",
+    "month": "JANUARY",
+    "volume": 200
+  } ,{
+    "meterId": 1,
+    "timestamp": "2019-03-05",
+    "month": "FEBRUARY",
+    "volume": 190
+  }
+]

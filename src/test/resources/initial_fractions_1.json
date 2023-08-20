@@ -1,0 +1,42 @@
+[
+  {
+    "month": "JANUARY",
+    "value": 0.1
+  },
+  {
+    "month": "FEBRUARY",
+    "value": 0.1
+  },
+  {
+    "month": "MARCH",
+    "value": 0.1
+  },
+  {
+    "month": "APRIL",
+    "value": 0.1
+  },
+  {
+    "month": "MAY",
+    "value": 0.1
+  },
+  {
+    "month": "JUNE",
+    "value": 0.1
+  },
+  {
+    "month": "JULY",
+    "value": 0.1
+  },
+  {
+    "month": "AUGUST",
+    "value": 0.1
+  },
+  {
+    "month": "SEPTEMBER",
+    "value": 0.1
+  },
+  {
+    "month": "OCTOBER",
+    "value": 0.1
+  }
+]
